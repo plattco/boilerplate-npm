@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Cody Platt",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Cody Platt",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
