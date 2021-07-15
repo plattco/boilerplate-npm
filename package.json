@@ -1,7 +1,10 @@
 {
-	"name": "fcc-learn-npm-package-json",
 	"author": "Cody Platt",
-	//test
+	"name": "fcc-learn-npm-package-json",
+	"description": "A practice package",
+	"keywords": [ "me", "you", "freecodecamp" ],
+	"license": "nolicense",
+	"version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
